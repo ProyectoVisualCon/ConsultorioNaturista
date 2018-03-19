@@ -1,0 +1,12 @@
+C:\Users\Oscar\source\repos\ProyectoGrupal\ProyectoGrupal\bin\Debug\ProyectoGrupal.exe.config
+C:\Users\Oscar\source\repos\ProyectoGrupal\ProyectoGrupal\bin\Debug\ProyectoGrupal.exe
+C:\Users\Oscar\source\repos\ProyectoGrupal\ProyectoGrupal\bin\Debug\ProyectoGrupal.pdb
+C:\Users\Oscar\source\repos\ProyectoGrupal\ProyectoGrupal\obj\Debug\ProyectoGrupal.csprojResolveAssemblyReference.cache
+C:\Users\Oscar\source\repos\ProyectoGrupal\ProyectoGrupal\obj\Debug\ProyectoGrupal.Form1.resources
+C:\Users\Oscar\source\repos\ProyectoGrupal\ProyectoGrupal\obj\Debug\ProyectoGrupal.Properties.Resources.resources
+C:\Users\Oscar\source\repos\ProyectoGrupal\ProyectoGrupal\obj\Debug\ProyectoGrupal.csproj.GenerateResource.Cache
+C:\Users\Oscar\source\repos\ProyectoGrupal\ProyectoGrupal\obj\Debug\ProyectoGrupal.csproj.CoreCompileInputs.cache
+C:\Users\Oscar\source\repos\ProyectoGrupal\ProyectoGrupal\obj\Debug\ProyectoGrupal.exe
+C:\Users\Oscar\source\repos\ProyectoGrupal\ProyectoGrupal\obj\Debug\ProyectoGrupal.pdb
+C:\Users\Oscar\source\repos\ProyectoGrupal\ProyectoGrupal\obj\Debug\ProyectoGrupal.Form2.resources
+C:\Users\Oscar\source\repos\ProyectoGrupal\ProyectoGrupal\obj\Debug\ProyectoGrupal.Form3.resources
