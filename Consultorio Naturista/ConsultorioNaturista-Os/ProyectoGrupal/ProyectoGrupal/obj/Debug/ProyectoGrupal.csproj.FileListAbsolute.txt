@@ -1,0 +1,34 @@
+C:\Users\Oscar\source\repos\ProyectoGrupal\ProyectoGrupal\bin\Debug\ProyectoGrupal.exe.config
+C:\Users\Oscar\source\repos\ProyectoGrupal\ProyectoGrupal\bin\Debug\ProyectoGrupal.exe
+C:\Users\Oscar\source\repos\ProyectoGrupal\ProyectoGrupal\bin\Debug\ProyectoGrupal.pdb
+C:\Users\Oscar\source\repos\ProyectoGrupal\ProyectoGrupal\obj\Debug\ProyectoGrupal.csprojResolveAssemblyReference.cache
+C:\Users\Oscar\source\repos\ProyectoGrupal\ProyectoGrupal\obj\Debug\ProyectoGrupal.Form1.resources
+C:\Users\Oscar\source\repos\ProyectoGrupal\ProyectoGrupal\obj\Debug\ProyectoGrupal.Properties.Resources.resources
+C:\Users\Oscar\source\repos\ProyectoGrupal\ProyectoGrupal\obj\Debug\ProyectoGrupal.csproj.GenerateResource.Cache
+C:\Users\Oscar\source\repos\ProyectoGrupal\ProyectoGrupal\obj\Debug\ProyectoGrupal.csproj.CoreCompileInputs.cache
+C:\Users\Oscar\source\repos\ProyectoGrupal\ProyectoGrupal\obj\Debug\ProyectoGrupal.exe
+C:\Users\Oscar\source\repos\ProyectoGrupal\ProyectoGrupal\obj\Debug\ProyectoGrupal.pdb
+C:\Users\Oscar\source\repos\ProyectoGrupal\ProyectoGrupal\obj\Debug\ProyectoGrupal.Form2.resources
+C:\Users\Oscar\source\repos\ProyectoGrupal\ProyectoGrupal\obj\Debug\ProyectoGrupal.Form3.resources
+C:\Users\camilo\Desktop\Consultorio Naturista\ConsultorioNaturista-Os\ProyectoGrupal\ProyectoGrupal\bin\Debug\ProyectoGrupal.exe.config
+C:\Users\camilo\Desktop\Consultorio Naturista\ConsultorioNaturista-Os\ProyectoGrupal\ProyectoGrupal\bin\Debug\ProyectoGrupal.exe
+C:\Users\camilo\Desktop\Consultorio Naturista\ConsultorioNaturista-Os\ProyectoGrupal\ProyectoGrupal\bin\Debug\ProyectoGrupal.pdb
+C:\Users\camilo\Desktop\Consultorio Naturista\ConsultorioNaturista-Os\ProyectoGrupal\ProyectoGrupal\obj\Debug\ProyectoGrupal.csprojResolveAssemblyReference.cache
+C:\Users\camilo\Desktop\Consultorio Naturista\ConsultorioNaturista-Os\ProyectoGrupal\ProyectoGrupal\obj\Debug\ProyectoGrupal.Form1.resources
+C:\Users\camilo\Desktop\Consultorio Naturista\ConsultorioNaturista-Os\ProyectoGrupal\ProyectoGrupal\obj\Debug\ProyectoGrupal.Form2.resources
+C:\Users\camilo\Desktop\Consultorio Naturista\ConsultorioNaturista-Os\ProyectoGrupal\ProyectoGrupal\obj\Debug\ProyectoGrupal.Form3.resources
+C:\Users\camilo\Desktop\Consultorio Naturista\ConsultorioNaturista-Os\ProyectoGrupal\ProyectoGrupal\obj\Debug\ProyectoGrupal.Properties.Resources.resources
+C:\Users\camilo\Desktop\Consultorio Naturista\ConsultorioNaturista-Os\ProyectoGrupal\ProyectoGrupal\obj\Debug\ProyectoGrupal.splash.resources
+C:\Users\camilo\Desktop\Consultorio Naturista\ConsultorioNaturista-Os\ProyectoGrupal\ProyectoGrupal\obj\Debug\ProyectoGrupal.csproj.GenerateResource.Cache
+C:\Users\camilo\Desktop\Consultorio Naturista\ConsultorioNaturista-Os\ProyectoGrupal\ProyectoGrupal\obj\Debug\ProyectoGrupal.csproj.CoreCompileInputs.cache
+C:\Users\camilo\Desktop\Consultorio Naturista\ConsultorioNaturista-Os\ProyectoGrupal\ProyectoGrupal\obj\Debug\ProyectoGrupal.exe
+C:\Users\camilo\Desktop\Consultorio Naturista\ConsultorioNaturista-Os\ProyectoGrupal\ProyectoGrupal\obj\Debug\ProyectoGrupal.pdb
+C:\Users\camilo\Desktop\Consultorio Naturista\ConsultorioNaturista-Os\ProyectoGrupal\ProyectoGrupal\bin\Debug\MySql.Data.dll
+C:\Users\camilo\Desktop\Consultorio Naturista\ConsultorioNaturista-Os\ProyectoGrupal\ProyectoGrupal\bin\Debug\MySql.Data.xml
+C:\Users\camilo\Desktop\Consultorio Naturista\ConsultorioNaturista-Os\ProyectoGrupal\ProyectoGrupal\bin\Debug\Gma.QrCodeNet.Encoding.dll
+C:\Users\camilo\Desktop\Consultorio Naturista\ConsultorioNaturista-Os\ProyectoGrupal\ProyectoGrupal\bin\Debug\Gma.QrCodeNet.Encoding.pdb
+C:\Users\camilo\Desktop\Consultorio Naturista\ConsultorioNaturista-Os\ProyectoGrupal\ProyectoGrupal\bin\Debug\Gma.QrCodeNet.Encoding.xml
+C:\Users\camilo\Desktop\Consultorio Naturista\ConsultorioNaturista-Os\ProyectoGrupal\ProyectoGrupal\bin\Debug\itextsharp.dll
+C:\Users\camilo\Desktop\Consultorio Naturista\ConsultorioNaturista-Os\ProyectoGrupal\ProyectoGrupal\bin\Debug\itextsharp.pdfa.dll
+C:\Users\camilo\Desktop\Consultorio Naturista\ConsultorioNaturista-Os\ProyectoGrupal\ProyectoGrupal\bin\Debug\itextsharp.xtra.dll
+C:\Users\camilo\Desktop\Consultorio Naturista\ConsultorioNaturista-Os\ProyectoGrupal\ProyectoGrupal\bin\Debug\itextsharp.xml
